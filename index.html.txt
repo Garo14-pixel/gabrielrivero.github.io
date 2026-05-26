@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Gabriel Rivero</title>
+
+  <link rel="stylesheet" href="style.css">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <link href="https://fonts.googleapis.com/css2?family=Oswald&family=Inter:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<h1>Gabriel Rivero</h1>
+
+<h2>Sobre mí</h2>
+
+<p>
+Soy <strong>comunicador visual</strong> egresado del Monserrat y actualmente estudio la
+Licenciatura en Diseño en la FAD UPC. He sido artista toda mi vida, y
+siempre encontré en el diseño una forma de crear, expresarme y conectar
+ideas con emociones.
+</p>
+
+<h2>Guillermo Leal</h2>
+
+<p>
+Uno de mis mayores referentes dentro del diseño es
+<strong>Guillermo Leal</strong>,
+especialmente por su trabajo con la morfología y la construcción visual
+de sus piezas.
+</p>
+
+<a href="https://leal-studio.com/">
+Leal Studio
+</a>
+
+<h2>Música y diseño</h2>
+
+<p>
+También me inspira mucho el mundo de la música y la gran cantidad de
+diseño que existe dentro de ese universo: logotipos, identidades
+visuales, portadas, estéticas y formas de comunicación artística.
+</p>
+
+<img src="imagenes/posterdiseno.jpg" alt="Poster de diseño realizado por Gabriel Rivero">
+
+<p>
+Imagen de autoría propia.
+</p>
+
+<h2>Blog personal</h2>
+
+<a href="https://rulitosdeestambre.wordpress.com/">
+Blog Personal
+</a>
+
+<br><br>
+
+<a href="musica.html">
+Ir a multimedia
+</a>
+
+<p>
+Este sitio utiliza una licencia Creative Commons BY-NC-SA 4.0.
+</p>
+
+</body>
+
+</html>

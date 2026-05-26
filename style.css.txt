@@ -1,0 +1,46 @@
+body{
+    background-color: #0f1a14;
+    color: #e8f5e9;
+    font-family: 'Inter', sans-serif;
+    margin: 40px;
+}
+
+h1{
+    font-family: 'Oswald', sans-serif;
+    font-size: 60px;
+    letter-spacing: 2px;
+    color: #7CFF8A;
+}
+
+h2{
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    margin-top: 40px;
+    color: #9BE9A8;
+}
+
+p{
+    font-size: 18px;
+    line-height: 1.7;
+    max-width: 700px;
+}
+
+strong{
+    color: #7CFF8A;
+}
+
+a{
+    color: #7CFF8A;
+    text-decoration: underline;
+    font-size: 18px;
+}
+
+a:hover{
+    opacity: 0.8;
+}
+
+img{
+    width: 500px;
+    border-radius: 10px;
+    margin-top: 20px;
+}

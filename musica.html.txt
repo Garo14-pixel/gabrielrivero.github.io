@@ -1,0 +1,19 @@
+<h1>Música y referencias</h1>
+
+<p>
+La música influye mucho en mi visión del diseño.
+</p>
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/VIDEO"
+title="YouTube video player"
+allowfullscreen>
+</iframe>
+
+<p>
+Video perteneciente a su autor original en YouTube.
+</p>
+
+<a href="index.html">
+Volver al inicio
+</a>
